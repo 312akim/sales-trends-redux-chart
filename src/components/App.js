@@ -6,9 +6,9 @@ function App() {
       <header className="App-header">
         Sales Trends Chart and Form
       </header>
-      <body>
+      <main>
         <SalesForm />
-      </body>
+      </main>
     </div>
   );
 }

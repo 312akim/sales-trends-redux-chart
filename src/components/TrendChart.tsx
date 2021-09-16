@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TrendChart(props) {
+function TrendChart() {
     return (
         <div>
             

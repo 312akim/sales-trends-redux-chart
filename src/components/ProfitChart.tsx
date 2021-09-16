@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ProfitChart(props) {
+function ProfitChart() {
     return (
         <div>
             
