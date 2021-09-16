@@ -1,3 +1,5 @@
+import SalesForm from "./SalesForm";
+
 function App() {
   return (
     <div style={styles.wrapper}>
@@ -5,7 +7,7 @@ function App() {
         Sales Trends Chart and Form
       </header>
       <body>
-        Body
+        <SalesForm />
       </body>
     </div>
   );
