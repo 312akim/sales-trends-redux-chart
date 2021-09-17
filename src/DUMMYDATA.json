@@ -1,0 +1,32 @@
+[{
+    "productName": "Red Chair",
+    "productPrice": 25,
+    "productCost": 15,
+    "productTags": [
+        "Red", "Chair"
+    ]
+},
+{
+    "productName": "Yellow Table",
+    "productPrice": 45,
+    "productCost": 25,
+    "productTags": [
+        "Yellow", "Table"
+    ]
+},
+{
+    "productName": "Blue Shoes",
+    "productPrice": 15,
+    "productCost": 5,
+    "productTags": [
+        "Blue", "Shoes"
+    ]
+},
+{
+    "productName": "Red Shirt",
+    "productPrice": 20,
+    "productCost": 5,
+    "productTags": [
+        "Red", "Shirt"
+    ]
+}]

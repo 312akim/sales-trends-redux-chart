@@ -6,7 +6,7 @@ function SalesForm() {
     const onSubmit = (data: any) => console.log(data);
 
     return (
-        <div>
+        <div style={styles.wrapper}>
             <form style={styles.form} onSubmit={handleSubmit(onSubmit)}>
                 <h2>
                     New Sale
@@ -38,6 +38,9 @@ function SalesForm() {
 }
 
 const styles = {
+    wrapper: {
+      marginBottom: '50px'  
+    },
     form: {
         display: 'flex',
         flexDirection: 'column' as const,

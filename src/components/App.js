@@ -1,3 +1,4 @@
+import SalesChart from "./SalesChart";
 import SalesForm from "./SalesForm";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       </header>
       <main>
         <SalesForm />
+        <SalesChart />
       </main>
     </div>
   );
